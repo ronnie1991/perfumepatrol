@@ -1,0 +1,29 @@
+[13-Jan-2020 11:07:41 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[13-Jan-2020 11:26:34 UTC] WordPress database error Table 'perfume_patrol.wp_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wp_woocommerce_sessions WHERE session_key = '1' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[13-Jan-2020 11:26:35 UTC] WordPress database error Table 'perfume_patrol.wp_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wp_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[13-Jan-2020 11:26:35 UTC] WordPress database error Table 'perfume_patrol.wp_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wp_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Post_Types::register_taxonomies, wc_get_attribute_taxonomies
+[13-Jan-2020 11:31:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-includes/class-wp-image-editor-imagick.php on line 355
+[13-Jan-2020 11:31:24 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/access-demo-importer/inc/importers/class-settings-importer.php on line 28
+[14-Jan-2020 05:48:56 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/access-demo-importer/inc/importers/class-settings-importer.php on line 28
+[14-Jan-2020 05:52:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-includes/class-wp-image-editor-imagick.php on line 363
+[14-Jan-2020 05:52:33 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/access-demo-importer/inc/importers/class-settings-importer.php on line 28
+[14-Jan-2020 05:53:23 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/access-demo-importer/inc/importers/class-settings-importer.php on line 28
+[14-Jan-2020 05:56:24 UTC] PHP Warning:  unlink(): http does not allow unlinking in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/access-demo-importer/inc/importers/class-settings-importer.php on line 28
+[15-Jan-2020 10:40:33 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1281
+[15-Jan-2020 10:40:33 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1281
+[15-Jan-2020 10:40:33 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1268
+[15-Jan-2020 10:40:33 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1281
+[15-Jan-2020 10:40:39 UTC] The get_woocommerce_term_meta function is deprecated since version 3.6. Replace with get_term_meta.
+[15-Jan-2020 10:40:42 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1281
+[15-Jan-2020 10:40:42 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1281
+[15-Jan-2020 10:40:42 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1268
+[15-Jan-2020 10:40:42 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, null given in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/revslider/includes/slider.class.php on line 1281

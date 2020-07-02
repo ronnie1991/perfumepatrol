@@ -1,0 +1,56 @@
+.header-center {
+    margin: 0 auto;
+    padding: 0;
+}
+.header-logo {
+    display: inline-block;
+    vertical-align: top;
+    line-height: 13px;
+    max-height: 30px;
+    margin-top: -19px;
+    padding: 20px;
+    background: #fff;
+    color: black;
+    border-radius: 50%;
+}
+
+.header-logo > a {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+    display: inline-block;
+    margin-top: -12px;
+}
+
+.header-logo img, .header-logo img {
+    max-width: 100%;
+    height: 93px;
+}
+
+.sub-banner1 .style-1 .static-wrapper {
+    top:10%;
+}
+
+
+.widget .widget-title, .widget_product_categories .widget-title {
+    background: #D10FD1 !important;
+    color: #FFF !important;
+}
+
+.header-cart .togg:before {
+    background: url(http://perfumepatrol.com/wp-content/uploads/2020/01/cart-bg.png) no-repeat;
+}
+.header-cart .cart-qty { 
+    background:#750f75;
+}
+
+.woocommerce span.onsale, .woocommerce-page span.onsale { 
+    background: url(http://perfumepatrol.com/wp-content/uploads/2020/01/sale-bg.png) no-repeat scroll 0px 0px transparent;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .header-mob-logo img {
+        height: 75px !important;
+    }
+}

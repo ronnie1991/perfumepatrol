@@ -1,0 +1,22 @@
+[01-Jun-2020 11:12:22 UTC] PHP Notice:  Undefined index: wp_version in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[01-Jun-2020 11:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[06-Jun-2020 16:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Jun-2020 18:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[06-Jun-2020 22:49:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/404.php on line 13
+[09-Jun-2020 00:59:56 UTC] PHP Notice:  Undefined index: wp_version in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[09-Jun-2020 00:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentyseventeen/functions.php on line 16

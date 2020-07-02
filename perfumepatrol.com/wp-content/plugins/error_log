@@ -1,0 +1,4 @@
+[19-May-2020 22:56:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/plugins/hello.php on line 69

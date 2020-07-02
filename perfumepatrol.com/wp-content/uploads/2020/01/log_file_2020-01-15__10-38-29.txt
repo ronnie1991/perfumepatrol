@@ -1,0 +1,101 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://perfumepatrol.com
+Data file = /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/starbella//demo-content/default/starbella.wordpress.xml
+Widget file = /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/starbella//demo-content/default/starbella_widgets_settings.wie
+Customizer file = /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/starbella//demo-content/default/starbella_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Product Categories - Shop by category - Imported to Inactive
+Active Product Filters - Active Filters - Imported to Inactive
+Filter Products by Price - Filter by price - Imported to Inactive
+Product Tag Cloud - Product Tags - Imported to Inactive
+Products by Rating - Top rated products - Imported to Inactive
+
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Header Offer Text Widget Area : 
+
+Visual Editor - No Title - Imported
+
+Header Shopping Cart Widget Area : 
+
+Cart - Cart - Imported
+
+Header Search Widget Area : 
+
+Product Search - No Title - Imported
+
+First Footer Widget Area : 
+
+TM - Follow Us Widget - Follow Us - Imported
+
+Second Footer Widget Area : 
+
+Newsletter - Newsletter Signup - Imported
+
+Third Footer Widget Area : 
+
+WooCommerce Accepted Payment Methods - Accepted Payment Methods - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Slider processed

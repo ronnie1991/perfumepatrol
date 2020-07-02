@@ -1,0 +1,4 @@
+[07-Jun-2020 00:51:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentysixteen/404.php on line 10

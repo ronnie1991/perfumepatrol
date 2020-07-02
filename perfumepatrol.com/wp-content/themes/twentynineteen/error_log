@@ -1,0 +1,5 @@
+[01-Jun-2020 11:12:22 UTC] PHP Notice:  Undefined index: wp_version in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentynineteen/functions.php on line 15
+[01-Jun-2020 11:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/addv4yplv99p/public_html/perfumepatrol.com/wp-content/themes/twentynineteen/functions.php on line 16
